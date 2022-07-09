@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout-v21/fragment_home1.xml" value="0.4" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/activity_home_page.xml" value="0.24375" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/activity_home_page2.xml" value="0.1802536231884058" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/app_bar_home_page.xml" value="0.24375" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/category_item.xml" value="0.264" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/content_home_page.xml" value="0.264" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/fragment_home.xml" value="0.182518115942029" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/fragment_home1.xml" value="0.264" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/fragment_slideshow.xml" value="0.24375" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/nav_header_home_page.xml" value="0.24375" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/layout/switch_item.xml" value="0.24375" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/menu/activity_home_page_drawer.xml" value="0.24375" />
+        <entry key="..\:/Foodie's Corner/FoodiesCorner/app/src/main/res/menu/home_page.xml" value="0.24375" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/drawable/btn_backgorund.xml" value="0.1355" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/drawable/ic_add_button.xml" value="0.119" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.119" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" value="0.119" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/drawable/slider_background.xml" value="0.2235" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_admin_actvity.xml" value="0.25" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_admin_banner.xml" value="0.15670289855072464" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_admin_category.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_admin_login.xml" value="0.15670289855072464" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_admin_scroll.xml" value="0.22327898550724637" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_admin_scroll2.xml" value="0.1693840579710145" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_basket.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_category.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_check_out.xml" value="0.2" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_forgot_pass.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_home_nav.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_home_page.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_home_page2.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_noti.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_product_details.xml" value="0.23346303501945526" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_register.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_scroll_layout3.xml" value="0.1693840579710145" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/admin_activity.xml" value="0.22327898550724637" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/cart_item_layout.xml" value="0.25" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/cart_total_amount_layout.xml" value="0.2" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/category_admin.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/category_item.xml" value="0.264" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/custom_grid_layout.xml" value="0.4" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_acc.xml" value="0.1" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_basket.xml" value="0.1" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_home.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_home2.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_home_fragment.xml" value="0.21979166666666666" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_noti.xml" value="0.1" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_profilefrag.xml" value="0.15670289855072464" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/fragment_your_orders.xml" value="0.2" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/horizontal_scroll_item2.xml" value="0.22327898550724637" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/horizontal_scroll_item3.xml" value="0.1693840579710145" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/horizontal_scroll_item_layout.xml" value="0.264" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/layout_cat.xml" value="0.25" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/layout_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/scroll_layout.xml" value="0.2" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/scroll_layout2.xml" value="0.22327898550724637" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/scroll_layout3.xml" value="0.1693840579710145" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/layout/slider_layout.xml" value="0.22010869565217392" />
+        <entry key="..\:/FoodiesCorner/app/src/main/res/menu/bottom_navig_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

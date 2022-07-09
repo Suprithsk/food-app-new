@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095316182977",
+    "firebase_url": "https://food-app-6863f-default-rtdb.firebaseio.com",
+    "project_id": "food-app-6863f",
+    "storage_bucket": "food-app-6863f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095316182977:android:8cf7bd1fdd1b5749a84140",
+        "android_client_info": {
+          "package_name": "com.example.foodiescorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095316182977-m6j09fnfaoubeiu78bfio082274le0ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7H9l_sLyDtWlRsBy7d8HGE2wNDaFS3C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095316182977-m6j09fnfaoubeiu78bfio082274le0ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
